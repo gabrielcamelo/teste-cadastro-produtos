@@ -2,7 +2,7 @@
 
 ## Como rodar o projeto
 
-	Rode os seguintes comandos:
+Rode os seguintes comandos:
 
 - **composer install**
 - **php artisan key:generate**
